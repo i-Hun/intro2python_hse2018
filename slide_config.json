@@ -6,7 +6,8 @@
   },
   "SlidesExporter": {
     "reveal_theme": "simple",
-    "reveal_url_prefix": "https://revealjs.com/"
+    "reveal_url_prefix": "https://revealjs.com/",
+    "reveal_scroll": true
   },
   "TemplateExporter": {
     "exclude_input_prompt": true,
