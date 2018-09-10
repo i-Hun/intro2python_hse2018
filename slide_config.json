@@ -1,7 +1,8 @@
 {
   "NbConvertApp": {
     "export_format": "slides",
-    "output_base": "index"
+    "output_base": "index",
+    "use_output_suffix": false
   },
   "SlidesExporter": {
     "reveal_theme": "simple",
